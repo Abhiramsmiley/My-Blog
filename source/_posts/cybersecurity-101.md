@@ -1,6 +1,14 @@
 ---
-title: "Red Teams Don’t Hack Systems — They Hack Trust"
+title: "Red Teams Don't Hack Systems — They Hack Trust"
 date: 2025-12-25 10:00:00
+author: 0xAbhiram
+risk: HIGH
+thumbnail: /img/cyber-bg.jpg
+summary: "A deep analysis of why real-world compromises succeed by abusing trust assumptions rather than exploiting isolated vulnerabilities."
+vectors:
+  - Trust Exploitation
+  - Identity Abuse
+  - Lateral Movement
 tags:
   - Red Team
   - Product Security
